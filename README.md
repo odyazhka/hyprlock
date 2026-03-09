@@ -1,5 +1,5 @@
 # hyprlock
-стильный пиксельный хайперлок, выглядит одинакого на всех мониторах с любым разрешением и размером
+Стильный пиксельный хайперлок, выглядит одинакого на всех мониторах с любым разрешением и размером
 
 <img width="680" height="510" alt="image" src="https://github.com/user-attachments/assets/43159d9d-80bf-4a5b-bfbc-b9a45420dc35" />
 
@@ -23,6 +23,6 @@ https://fontstruct.com/fontstructions/show/1765530/pixellocale-v-1-4
 
 Обновите кэш командой ```fc-cache -fv```
 
-### 3. Файлы hyprlock.conf и hyprlock.png перенести в папку *~/.config/hypr/*
+### 3. Файлы hyprlock.conf перенести в папку *~/.config/hypr/*
 
-Готово, приятного использования!
+Готово, желаю приятного использования!
