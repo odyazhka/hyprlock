@@ -3,8 +3,8 @@
 
 <img width="680" height="510" alt="image" src="https://github.com/user-attachments/assets/43159d9d-80bf-4a5b-bfbc-b9a45420dc35" />
 
-### Установка:
-sudo pacman -S hyprlock
+### Установка hyprlock:
+'''sudo pacman -S hyprlock'''
 
 в *~/.config/hypr/hyprland.conf* активировать hyprlock, например для ноутбука я сделал так:
 
