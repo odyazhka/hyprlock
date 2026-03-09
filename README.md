@@ -23,6 +23,6 @@ https://fontstruct.com/fontstructions/show/1765530/pixellocale-v-1-4
 
 Обновите кэш командой ```fc-cache -fv```
 
-### 3. Файлы hyprlock.conf перенести в папку *~/.config/hypr/*
+### 3. Файл hyprlock.conf перенести в папку *~/.config/hypr/*
 
 Готово, желаю приятного использования!
